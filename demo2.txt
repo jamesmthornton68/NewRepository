@@ -1,2 +1,1 @@
 test demo2 file to push to GitHub remote repo
-my favorite band is Sly and the Family Stone!
