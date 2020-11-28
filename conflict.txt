@@ -1,1 +1,1 @@
-welcome to github training for conflict resolution
+Welcome to github training for conflict resolution which is tested on 28 November 2020
