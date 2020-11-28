@@ -1,1 +1,2 @@
 Welcome to github training for conflict resolution which is tested on 28 November 2020
+this is another test to create a conflict using the conflict.txt file
